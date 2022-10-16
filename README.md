@@ -1,2 +1,2 @@
 # receita-de-lumpia
-Receita via html
+Receita feita pela linguagem de marcação de texto HTML
